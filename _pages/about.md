@@ -6,7 +6,7 @@ subtitle: AI/ML engineer & researcher — LLMs, multi-agent systems, applied NLP
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false
   more_info:
 

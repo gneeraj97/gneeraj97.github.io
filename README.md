@@ -9,6 +9,7 @@ Design/content decisions are recorded in
 ## Local development
 
 ```bash
+brew install ruby imagemagick
 export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 bundle install
 bundle exec jekyll serve
