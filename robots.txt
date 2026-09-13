@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gneeraj97.github.io/sitemap.xml
