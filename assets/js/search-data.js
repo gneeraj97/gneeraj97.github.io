@@ -25,10 +25,17 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Selected projects — some described generically to respect confidentiality with employers, others linking to public repositories.",
+          description: "Selected projects, described generically to respect confidentiality with employers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-open-source-tools",
+          title: "open source tools",
+          description: "Open-source tools I&#39;ve built and released publicly.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/opensource/";
           },
         },{id: "post-starting-this-blog",
         
