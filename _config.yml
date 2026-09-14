@@ -9,8 +9,9 @@ last_name: Gupta
 contact_note: >
   GitHub, LinkedIn, and Google Scholar are the best ways to reach me.
 description: >
-  Applied AI/ML engineer and researcher — LLM safety, multi-agent systems,
-  and applied NLP for security.
+  AI/ML Applied Scientist and researcher — LLMs, multi-agent systems,
+  applied NLP, and RLHF, currently exploring their application to risk,
+  safety, and cybersecurity.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

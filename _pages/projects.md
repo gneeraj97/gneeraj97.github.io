@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected projects — some described generically to respect confidentiality with employers, others linking to public repositories.
+description: Selected projects, described generically to respect confidentiality with employers.
 nav: true
 nav_order: 3
-display_categories: [work, open-source]
+display_categories: [work]
 horizontal: false
 ---
 
