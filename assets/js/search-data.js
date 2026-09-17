@@ -88,11 +88,6 @@ ninja.data = [{
           description: "LLM-augmented text-to-Cypher query generation, fine-tuned on graph data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-dermrag",
-          title: 'DermRAG',
-          description: "Retrieval-augmented generation for dermatology question answering",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
